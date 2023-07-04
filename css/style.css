@@ -356,8 +356,15 @@ span {
 }
 
 
-
-
+div.social_list {
+   border: 1px solid yellow;
+   width: 70%;
+   height: auto;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   padding-right: 10px;
+}
 
 div.col_orange {
     width: 15%;
