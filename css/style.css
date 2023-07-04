@@ -27,6 +27,7 @@ nav {
 
 div._elem {
     height: auto; 
+    font-family: 'gg sans Normal', sans-serif;
 }
 
 div.small {
@@ -261,14 +262,20 @@ div.just_chillin {
     background-size: cover;
 }
 
-div.star {
+div.adventure {
     /* border: 1px solid blue; */
     width: 50%;
     height: auto;
     margin: 0 auto;
     text-align: center;
-    padding-top: 50px;
+    padding: 0px;
 }   
+
+.star {
+    /* border: 1px solid blue; */
+    width: 60%;
+    height: auto;
+}
 
 div.question {
     /* border: 1px solid red; */
